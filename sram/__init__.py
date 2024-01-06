@@ -1,1 +1,1 @@
-from .sram import sram, syllable_rate_estimation
+from .sram import sram
